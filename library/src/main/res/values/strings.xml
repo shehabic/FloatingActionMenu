@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FloatingMenu</string>
+
+    <string name="app_name">com.shehabic.floatingmenu</string>
+
 </resources>
